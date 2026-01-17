@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Socials: 
 <a href="https://www.instagram.com/ayy_sapp/">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a> ** [@Sappling] ("https://www.instagram.com/ayy_sapp/") **
+</a> ** Ayy Sapp**
 
 
 
