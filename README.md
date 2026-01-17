@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 ## Socials: 
 <a href="https://www.instagram.com/ayy_sapp/">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a> ** Ayy Sapp**
+</a> 
+<a href = "https://discord.gg/bWSd6WYhhD">
+ <img src = "https://skillicons.dev?i=instagram" width = "40" />
+</a>
 
 
 
