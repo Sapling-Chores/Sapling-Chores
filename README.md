@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ### HighSchool, Beginner Coder, Preparing for jee
 
 ## Contacts: 
-### Email : 
-itsmohammadsarfaraz@gmail.com
+### Email : itsmohammadsarfaraz@gmail.com
+
