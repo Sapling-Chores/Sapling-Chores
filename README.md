@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 # About Me🫎:
 ### HighSchool, Beginner Coder, Preparing for jee
 
-## Contacts: 
+## Contact: 
 ### Email : itsmohammadsarfaraz@gmail.com
+
+## Skills: ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> Python
+
 
