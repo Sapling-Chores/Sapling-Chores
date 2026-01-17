@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a> 
 <a href="https://discord.gg/bWSd6WYhhD">
   <img src="https://skillicons.dev/icons?i=discord" width="32"/>
-</a> sappliing
+</a>
 
 
 
