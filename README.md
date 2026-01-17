@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ayy_sapp/">
   <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a> 
-<a href = "https://discord.gg/bWSd6WYhhD">
- <img src = "https://skillicons.dev?i=instagram" width = "40" />
-</a>
+<a href="https://discord.gg/bWSd6WYhhD">
+  <img src="https://skillicons.dev/icons?i=discord" width="32"/>
+</a> sappliing
+
 
 
 
