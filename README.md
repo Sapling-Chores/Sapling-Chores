@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 
 ## MySkills: ![My Skills](https://skillicons.dev/icons?i=python,arduino,github)
 
+## Socials: 
+<a href="https://www.instagram.com/your_username">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+</a>
+
+
+
