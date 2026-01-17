@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Contact: 
 ### Email : itsmohammadsarfaraz@gmail.com
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,arduino,github,linux,js)
+![My Skills](https://skillicons.dev/icons?i=python) Python
 
 
 
