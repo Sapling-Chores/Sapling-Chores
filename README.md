@@ -22,6 +22,7 @@ itsmohammadsarfaraz@gmail.com
   @notsappling
 </a>
 
+<img width="24" height="24" alt="instagram (1)" src="https://github.com/user-attachments/assets/9971c31b-ad4f-4316-a726-5c9a0364473e" />
 
 
 
