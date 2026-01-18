@@ -3,7 +3,7 @@
 
 # About Me🫎:
 <h3>
-  Name:  
+  Name:  </h3>
   <span style="font-size:14px; font-weight:normal;">
     Mohammad Sarfaraz
   </span>
