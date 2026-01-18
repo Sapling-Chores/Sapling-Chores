@@ -2,7 +2,13 @@
 
 
 # About Me🫎:
-** Name : ** Mohammad Sarfaraz
+<h3>
+  Name:  
+  <span style="font-size:14px; font-weight:normal;">
+    Mohammad Sarfaraz
+  </span>
+</h3>
+
 
 
 ### HighSchool, Beginner Coder, Preparing for jee
