@@ -1,8 +1,7 @@
 ## Ayooo 👋
 
 # About Me🫎:
-#### NAME: 
-MOHAMMAD SARFARAZ
+I my name is Mohammad Sarfaraz, I am code enthusiast!!!
 #### Qualification: 
 HighSchool
 #### What am I doing?
