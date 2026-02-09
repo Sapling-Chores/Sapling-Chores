@@ -5,9 +5,11 @@ I my name is Mohammad Sarfaraz, I am code enthusiast!!!
 I am a HighSchool student!
 
 ### What am I working on?
-A Sound recorder which is going to be very cool!
+* A Sound recorder which is going to be very cool!
+  
 Once I am done with the firmware of this ⬆️ I will work on the firmware of ⬇️.
-I am also working on (barely) a MPU_6050 controlled MousePointer. 
+
+* I am also working on (barely) a MPU_6050 controlled MousePointer. 
 
 
 ## Contact: 
