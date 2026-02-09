@@ -3,7 +3,7 @@
 </div>
 
 # About Me🫎:
-I my name is Mohammad Sarfaraz, I am code enthusiast!!!
+I my name is Mohammad Sarfaraz, .--- I am code enthusiast!!!
 I am a HighSchool student!
 
 ### What am I working on?
@@ -11,7 +11,7 @@ I am a HighSchool student!
   
   Can you decode the name of the project?
 
-  ### .--- .- ... --- --- ...
+  ###     
   
 Once I am done with the firmware of this ⬆️ I will work on the firmware of ⬇️.
 
@@ -19,11 +19,11 @@ Once I am done with the firmware of this ⬆️ I will work on the firmware of �
 
 </div>
 
-## Contact: 
+## Contact: .-
 ##### Email : 
 itsmohammadsarfaraz@gmail.com
 
-#### Socials: 
+#### Socials : ...
 
 <a href="https://www.instagram.com/notsappling/" target="_blank">
   <img width="24" height="24" alt="instagram" src="https://github.com/user-attachments/assets/9971c31b-ad4f-4316-a726-5c9a0364473e" />
@@ -39,6 +39,9 @@ itsmohammadsarfaraz@gmail.com
   @notsappling
 </a>
 
+---
+
+--- ...
 
 
 
