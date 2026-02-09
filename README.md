@@ -2,11 +2,13 @@
 
 # About Me🫎:
 I my name is Mohammad Sarfaraz, I am code enthusiast!!!
-#### Qualification: 
-HighSchool
-#### What am I doing?
-Beginner Coder, Preparing for jee
-## MySkills: ![My Skills](https://skillicons.dev/icons?i=python,arduino,github)
+I am a HighSchool student!
+
+### What am I working on?
+A Sound recorder which is going to be very cool!
+Once I am done with the firmware of this ⬆️ I will work on the firmware of ⬇️.
+I am also working on (barely) a MPU_6050 controlled MousePointer. 
+
 
 ## Contact: 
 ##### Email : 
