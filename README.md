@@ -1,5 +1,7 @@
 ## Ayooo 👋
 
+</div>
+
 # About Me🫎:
 I my name is Mohammad Sarfaraz, I am code enthusiast!!!
 I am a HighSchool student!
@@ -11,6 +13,7 @@ Once I am done with the firmware of this ⬆️ I will work on the firmware of �
 
 * I am also working on (barely) a MPU_6050 controlled MousePointer. 
 
+</div>
 
 ## Contact: 
 ##### Email : 
