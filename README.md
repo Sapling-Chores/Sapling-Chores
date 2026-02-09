@@ -9,7 +9,9 @@ I am a HighSchool student!
 ### What am I working on?
 * A Sound recorder which is going to be very cool!
   
-  Can you decode the name of the project?  ### .--- .- ... --- --- ...
+  Can you decode the name of the project?
+
+  ### .--- .- ... --- --- ...
   
 Once I am done with the firmware of this ⬆️ I will work on the firmware of ⬇️.
 
